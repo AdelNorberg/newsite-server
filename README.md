@@ -1,1 +1,2 @@
-# newsite-server
+# server
+
